@@ -18,5 +18,4 @@ What drives me is the joy of creating something meaningful through code. While I
 ## 🤝 Let’s Connect!
 If you'd like to share advice or support me on my journey, feel free to reach out! I’m always open to new connections and knowledge. 😊
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Lerble-bot&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lerble-bot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lerble-bot&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lerble-bot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false" height="150" alt="languages graph"  />
