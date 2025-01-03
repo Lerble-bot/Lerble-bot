@@ -7,7 +7,7 @@ I’m a second-year university student with a growing passion for development. H
 - 🎓 Learned the basics of SQL, Java, C, and C++ during my studies.
 - 🐍 Currently focused on Python, which I’m using to build small projects and strengthen my skills.
 - 🚀 Exploring various technologies to discover where my true passion lies.
--What drives me is the joy of creating something meaningful through code. While I’m still figuring out my specialization, I believe every small step brings me closer to finding my calling.
+- What drives me is the joy of creating something meaningful through code. While I’m still figuring out my specialization, I believe every small step brings me closer to finding my calling.
 
 ## 🎯 My Goals
 - 💡Upload my projects here on GitHub to track my progress.
