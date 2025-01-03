@@ -16,4 +16,4 @@ What drives me is the joy of creating something meaningful through code. While I
 ## 🤝 Let’s Connect!
 If you'd like to share advice or support me on my journey, feel free to reach out! I’m always open to new connections and knowledge. 😊
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://Lerble-bot.com/anuraghazra/github-readme-stats)
+
