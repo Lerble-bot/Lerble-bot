@@ -5,7 +5,7 @@ Greetings, wanderer of the digital realms! 👋 My name is Dmytro (though you ca
 ## 👤 Who Am I?
 I’m a second-year university student with a growing passion for development. Here's a quick snapshot of my programming journey so far:
 - 🎓 Learned the basics of SQL, Java, C, and C++ during my studies.
-- 🐍 Currently focused on Python, which I’m using to build small projects and strengthen my skills.
+- 🐍 Currently focused on Python to build small projects and improve my skills.
 - 🚀 Exploring various technologies to discover where my true passion lies.
 
 What drives me is the joy of creating something meaningful through code. While I’m still figuring out my specialization, I believe every small step brings me closer to finding my calling.
