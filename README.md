@@ -1,6 +1,6 @@
 # 🌌 Welcome to my page 🌟
 Greetings, wanderer of the digital realms! 👋 My name is Dmytro (though you can call me Dima or DimaNayro), and this repository is the echo of my journey into the fascinating world of programming. It’s a space where I transform curiosity into code and dreams into projects.
-<img align='right' src='https://tenor.com/8P6Y.gif' width='200"'>
+<img align='right' src='https://i.imgflip.com/65efzo.gif' width='200"'>
 ## 👤 Who Am I?
 I’m a second-year university student with a growing passion for development. Here's a quick snapshot of my programming journey so far:
 - 🎓 Learned the basics of SQL, Java, C, and C++ during my studies.
